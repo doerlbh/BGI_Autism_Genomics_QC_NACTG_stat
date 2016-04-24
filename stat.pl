@@ -1,3 +1,5 @@
+# Baihan Lin, BGI, Aug 2013
+
 #!/usr/bin/perl -w
 
 use strict;
