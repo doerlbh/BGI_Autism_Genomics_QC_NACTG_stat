@@ -1,0 +1,28 @@
+>chr1
+7_start 9_end 3_length
+17_start 17_end 1_length
+>chr2
+1_start 8_end 8_length
+13_start 15_end 3_length
+20_start 21_end 2_length
+26_start 27_end 2_length
+>chr12
+2_start 6_end 5_length
+16_start 17_end 2_length
+25_start 26_end 2_length
+>chr1
+7_start 9_end 3_length
+17_start 17_end 1_length
+>chr2
+1_start 8_end 8_length
+13_start 15_end 3_length
+20_start 21_end 2_length
+26_start 27_end 2_length
+>chr12
+2_start 6_end 5_length
+16_start 17_end 2_length
+25_start 26_end 2_length
+
+>chrM
+
+>chrM
