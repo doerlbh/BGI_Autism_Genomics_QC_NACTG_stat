@@ -1,3 +1,4 @@
+# Baihan Lin, BGI, 2013
 
 #!/usr/bin/perl -w
 
